@@ -5,6 +5,7 @@
 - 📫 How to reach me ... 
 - 💻 On my website : www.criusdigitalstudio.com you can find detailed Tutorials with pictures for my projects
 - 🚩 Youtube : https://www.youtube.com/criusdigital
+- 🖨 Thingiverse :https://www.thingiverse.com/criusdigitalstudio/designs
 
 <!---
 CriusDigitalStudio/CriusDigitalStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
